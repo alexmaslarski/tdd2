@@ -1,0 +1,9 @@
+@font-face {
+    font-family: '28 Days Later';
+    src: url('28DaysLater.woff2') format('woff2'),
+        url('28DaysLater.woff') format('woff'),
+        url('28DaysLater.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
